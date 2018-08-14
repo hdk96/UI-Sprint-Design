@@ -1,0 +1,19 @@
+.tabs{
+	background-color: #283747 ;
+	text-align: center;
+	margin-top: 10px;
+	display: flex;
+    justify-content: center;
+
+}
+.tab{
+	background-color: #283747 ;
+	border: 0px solid ;
+	padding-top: 8px;
+	padding-bottom:8px;
+	color: #D0D3D4;
+}
+.tab:hover{
+    background-color: #0DD1D1;
+    color:#1C2833;
+}

@@ -1,0 +1,28 @@
+#card{
+
+	background-color: #10D5D5;
+	margin-bottom: 10px;
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-bottom: 100px;
+	padding-top: 100px;	
+}
+.card{
+	margin-bottom: 105px;
+	margin-top: 30px
+}
+.card-avatar{
+	border-radius:50%;
+	width: 3%;
+	margin-right: 50px;
+}
+.card-category{
+
+}
+
+/*
+Si tu utilises une image de fond,
+ elle aura un linear gradient et
+ tu utilisera les positionnements 
+ relatifs et absolus pour placer ton avatar.
+ */

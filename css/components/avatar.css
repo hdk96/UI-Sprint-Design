@@ -1,0 +1,19 @@
+#avatar-list{
+	display: inline;
+	padding-right: 20px;
+	float: left;
+}
+.avatar{
+	border-radius:50%;
+	width: 15%;
+	margin-right: 50px;
+} 
+.avatar-large{
+	border-radius:50%;
+	margin-right: 50px;
+}
+.avatar-small{
+	border-radius:50%;
+	width: 10%;
+	margin-right: 50px;
+}
